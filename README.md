@@ -20,4 +20,10 @@
  * You can blur the image , add text , add Frame , and  a lot more features.
  * Use can use camera or gallery to edit you photo.
 <br>
+<img src = "assets/Screenshot_1668948061.png">
+<img src = "assets/Screenshot_1668948091.png">
+<img src = "assets/Screenshot_1668948195.png">
+<img src = "assets/homeScreen.png">
+
+
 
